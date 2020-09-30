@@ -1,7 +1,7 @@
 # HTML and CSS Lab
 
 ### Deliverables
-* In your termial, write `open index.html` to open the html file in your terminal
+* In your terminal, write `open index.html` to open the html file in your terminal
 * Open `index.html` and `styles.css` in your code editor
 * Use a combination of HTML and CSS to try and recreate a layout similar to this page (you can use your own placeholders for the images):
 ![Image](./image.png)
